@@ -76,3 +76,8 @@ If you update/replace the Spaces package, you may need to re-apply those patches
 
 - Snapdragon Spaces docs: `https://docs.spaces.qualcomm.com/`
 
+## Support
+- Issues: use your normal project tracker or repository issues.
+- For integration questions, contact your QWR point of contact.
+- Email: devs@questionwhatsreal.com
+
