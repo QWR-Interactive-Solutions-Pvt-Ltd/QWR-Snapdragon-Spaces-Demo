@@ -1,0 +1,66 @@
+# Unity (general)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Uu]ser[Ss]ettings/
+
+# Unity generated (VS/MonoDevelop/Gradle, etc.)
+/.vs/
+/.idea/
+/.vscode/
+/*.csproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+/*.VC.VC.opendb
+
+# Unity Package Manager / Addressables
+/[Pp]ackages/packages-lock.json
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Crash reports
+sysinfo.txt
+
+# OS cruft
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Android / Gradle outputs
+*.apk
+*.aab
+*.aar
+*.keystore
+*.jks
+*.log
+*.tmp
+
+# Snapdragon Spaces / OpenXR temporary artifacts seen in this repo
+.tmp_openxr/
+.tmp_openxr2/
+.utmp/
+
+# Burst debug info directories (Unity creates "DoNotShip" folders)
+*_BurstDebugInformation_DoNotShip/
+
+# JetBrains Rider / ReSharper
+*.DotSettings.user
+/.resharper/
+/.rider/
+
+# Optional: keep meta files, ignore their backup/merge leftovers
+*.meta~
+*.meta.orig
